@@ -2,3 +2,5 @@
 
 print("Hello World")
 print("Hello Universe")
+print("Hello Galaxy")
+print("Hi again!")
